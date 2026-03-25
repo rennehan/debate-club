@@ -1,0 +1,4 @@
+.debate-runs/
+*.dat
+__pycache__/
+*.pyc
